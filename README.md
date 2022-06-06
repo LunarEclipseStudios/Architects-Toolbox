@@ -20,7 +20,7 @@ This data/resourcepack is a smart tool used to make building with custom models 
 
 #### Stable releases
 
-![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Architects-Toolbox)
+![GitHub release](https://img.shields.io/github/v/release/LunarEclipseStudios/Architects-Toolbo)
 
 The latest releases of Architect's Toolbox are published to our [GitHub release](https://github.com/LunarEclipseStudios/Architects-Toolbox/releases) pages. 
 Releases are considered to be **suitable for general use**, but they are not guaranteed to be free of bugs and other issues.
