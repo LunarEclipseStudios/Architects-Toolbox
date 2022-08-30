@@ -5,8 +5,6 @@
 
 [![GitHub license](https://img.shields.io/badge/license-LGPL--3.0-orange)](https://opensource.org/licenses/lgpl-3.0.html)
 
-[Note: Check branches to find resource/datapack]
-
 This data/resourcepack is a smart tool used to make building with custom models easier!
 
 ![2022-04-24_12 09 42](https://user-images.githubusercontent.com/26262092/165000009-fb30cef2-c4d2-47a3-ad37-fe5e4602cc02.png)
