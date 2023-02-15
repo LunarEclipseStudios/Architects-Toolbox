@@ -1,7 +1,7 @@
 ![Header Image](https://cdn.discordapp.com/attachments/826689002697654273/978093240098115595/Logo_Big.png)
 
-# Architect's Toolbox
-## Resource/Data Pack for Minecraft: Java Edition
+# **Architect's Toolbox**
+## **Resource/Data Pack for Minecraft: Java Edition**
 
 [![GitHub license](https://img.shields.io/badge/license-LGPL--3.0-orange)](https://opensource.org/licenses/lgpl-3.0.html)
 
@@ -14,7 +14,7 @@ This data/resourcepack is a smart tool used to make building with custom models 
 
 ---
 
-## Installation
+## **Installation**
 
 #### Stable releases
 
@@ -25,14 +25,14 @@ Releases are considered to be **suitable for general use**, but they are not gua
 
 ---
 
-### Reporting Issues
+## **Reporting Issues**
 
 You can report bugs and crashes by opening an issue on our [issue tracker](https://github.com/LunarEclipseStudios/Architects-Toolbox/issues).
 Before opening a new issue, use the search tool to make sure that your issue has not already been reported and ensure
 that you have completely filled out the issue template. Issues that are duplicates or do not contain the necessary
 information to triage and debug may be closed. 
 
-### Community
+## **Community**
 [![Discord chat](https://img.shields.io/badge/chat%20on-discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/RmMtqxJJgH)
 
 We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joining, you can:
@@ -41,7 +41,6 @@ We have an [official Discord community.](https://discord.gg/RmMtqxJJgH) By joini
 - just hang out with the rest of our community.
 
 ---
-### License
+## **License**
 
-Architect's Toolbox is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the
-[license file](https://github.com/LunarEclipseStudios/Architects-Toolbox/blob/main/LICENSE.txt).
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. Feel free to use and modify the mod/datapack as you see fit, as long as you give credit to the original authors, do not use it for commercial purposes, and share any modifications under the same license. See the [LICENSE](https://github.com/LunarEclipseStudios/Architects-Toolbox/blob/main/LICENSE.md) file for more details.
